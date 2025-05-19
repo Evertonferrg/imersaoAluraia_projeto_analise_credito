@@ -39,7 +39,7 @@ API Key do Google Gemini
 Instalação
 Clone este repositório:
 
-git clone https://github.com/seu-usuario/sistema-analise-credito.git
+git clone https://github.com/Evertonferrg/imersaoAluraia_projeto_analise_credito/blob/9f03eef900ba1f723a48f9cbb2412749de62ccf4/imersaoalura_sistema_analise_credito.ipynb
 
 Instale as dependências:
 
@@ -75,7 +75,7 @@ O sistema gera um gráfico de barras representando a nota de risco e o exibe.
 
 
 
-www.ib.unicamp.br
+
 Estrutura do Código
 * `main()`: Função principal que coordena a execução do sistema.
 * `buscar_info_empresa(nome_ou_cnpj)`: Agente para buscar informações da empresa usando o Google.
@@ -84,10 +84,7 @@ Estrutura do Código
 * `gerar_relatorio_credito(nome_empresa, avaliacao_risco, justificativa_risco, informacoes)`: Função para gerar o relatório de crédito.
 * `gerar_grafico_risco(avaliacao_risco)`: Função para gerar o gráfico de risco.
 * `call_agent(agent, message_text)`: Função auxiliar para interagir com os agentes.
-* `to_markdown(text)`: Função auxiliar para formatar o texto em Markdown.
-
-Contribuindo
-Contribuições são bem-vindas! Sinta-se à vontade para abrir issues e enviar pull requests.
+* `to_markdown(text)`: Função auxiliar para formatar o texto em Markdown
 
 
 
