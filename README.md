@@ -2,6 +2,10 @@ Sistema de Análise de Crédito
 Visão Geral
 Este sistema de análise de crédito é uma aplicação desenvolvida para avaliar o risco de crédito de empresas, utilizando o modelo de linguagem Gemini. O sistema coleta informações sobre a empresa, avalia o risco de crédito e gera um relatório detalhado.
 
+
+https://github.com/Evertonferrg/imersaoAluraia_projeto_analise_credito/blob/main/img/Grava%C3%A7%C3%A3o%20de%20Tela%202025-05-18%20183204.mp4
+
+
 Funcionalidades
 Busca de Informações da Empresa: O sistema pode buscar informações públicas sobre a empresa usando o nome ou CNPJ, através do Google.
 
